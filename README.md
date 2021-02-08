@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🎓 I am a junior at Swarthmore College 🏫, majoring in computer science 💻 and statistics 📈.  
-✨ currently an SWE intern at FinePrint Data 💹; previously at LotusFlare 🔥 and professor Steve Wang's lab 📊.  
+✨ currently an SWE intern at @facebook 💹; previously at LotusFlare 🔥 and professor Steve Wang's lab 📊.  
 ⚡ Check out my personal website at https://ckkim-rv.github.io/
