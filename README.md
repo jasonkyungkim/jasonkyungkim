@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🎓 I am a junior at Swarthmore College 🏫, majoring in computer science 💻 and statistics 📈.  
 ✨ currently an SWE intern at [@FinePrintData](https://www.fineprintdata.com/) 💹; previously at [@LotusFlare](https://lotusflare.com/)  🔥 and professor Steve Wang's lab 📊.  
-⚡ Check out my personal website at https://ckkim-rv.github.io/
+⚡ Check out my personal [website](https://ckkim-rv.github.io/)
