@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🎓 I am a senior at Swarthmore College, majoring in computer science and statistics.  
-✨ currently a SWE intern [@Telnyx](https://www.telnyx.com/); previously [@LotusFlare](https://lotusflare.com/) and [@ professor Steve Wang's lab](https://www.swarthmore.edu/NatSci/swang1/personnel.html).  
+✨ previously [@LotusFlare](https://lotusflare.com/), [@Telnyx](https://www.telnyx.com/) and [@ professor Steve Wang's lab](https://www.swarthmore.edu/NatSci/swang1/personnel.html).  
 ⚡ Check out my personal [website](https://jasonkyungkim.github.io/)
