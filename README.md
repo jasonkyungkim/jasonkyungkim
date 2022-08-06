@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I am a senior at Swarthmore College, majoring in computer science and statistics.  
-✨ previously [@LotusFlare](https://lotusflare.com/), [@Telnyx](https://www.telnyx.com/) and [@ professor Steve Wang's lab](https://www.swarthmore.edu/NatSci/swang1/personnel.html).  
+🎓 I studied statistics at [Swarthmore College](https://www.swarthmore.edu/).
+🎓 I am currently studying data science at [Harvard](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-data-science) as a master's student.
+✨ previously [@ professor Steve Wang's lab](https://www.swarthmore.edu/NatSci/swang1/personnel.html).  
 ⚡ Check out my personal [website](https://jasonkyungkim.github.io/)
