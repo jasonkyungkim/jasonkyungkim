@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 🎓 I studied statistics at [Swarthmore College](https://www.swarthmore.edu/).
 
-🎓 I am currently studying data science at [Harvard](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-data-science) as a master's student.
-
 ✨ Previously [@ professor Steve Wang's lab](https://www.swarthmore.edu/NatSci/swang1/personnel.html).  
 
 ⚡ Check out my personal [website](https://jasonkyungkim.github.io/)
