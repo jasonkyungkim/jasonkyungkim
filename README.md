@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I studied statistics at [Swarthmore College](https://www.swarthmore.edu/).
+iOS and machine learning
 
-✨ Previously [@ professor Steve Wang's lab](https://www.swarthmore.edu/NatSci/swang1/personnel.html).  
-
-⚡ Check out my personal [website](https://jasonkyungkim.github.io/)
-
-📫 How to reach me: ckim4@g.harvard.edu
+reading, watching movies, and taking a walk are my favorite pasttimes
